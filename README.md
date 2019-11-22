@@ -7,6 +7,7 @@ The _Business Administration_ program is to designed for students to explore and
 #### [Admission Requirement](https://www.binghamton.edu/admissions/)
 Binghamton University have a 92.1% First-year Retention Rate. It's national average for publics with is 62%.
 There are:
+
 * **14,021** Undergraduates
 * **3,747** Graduates
 * **50/50** Male/female ratio in the university
