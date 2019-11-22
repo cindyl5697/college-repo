@@ -9,15 +9,15 @@ Binghamton University have a 92.1% First-year Retention Rate. It's national aver
 
 There are:
 
-* **14,021** Undergraduates
-* **3,747** Graduates
-* **50/50** Male/female ratio in the university
+* <ins>14,021</ins> Undergraduates
+* <ins>3,747</ins> Graduates
+* <ins>50/50</ins> Male/female ratio in the university
 
 The grades for the admission are:
-* **93-98 / 3.7-3.9** Mid-50% GPA
+* <ins>93-98 / 3.7-3.9</ins> Mid-50% GPA
 SAT (mid 50%)
-* Math: **660-740**
-* Evidence-based reading and writing: **640-710**
-* ACT score (mid-50%): **29-32**
+* Math: <ins>660-740</ins>
+* Evidence-based reading and writing: <ins>640-710</ins>
+* ACT score (mid-50%): <ins>29-32</ins>
 
 
